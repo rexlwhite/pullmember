@@ -1,0 +1,5 @@
+discord.py==2.4.0
+supabase==2.4.0
+fastapi==0.115.0
+uvicorn==0.32.0
+requests==2.32.3
